@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/sHJDULn.png" >
+  <img src="https://i.imgur.com/sHJDULn.png](https://i.imgur.com/wwk4x0w.png" >
 </p>
 
 # Vini Pinzón
