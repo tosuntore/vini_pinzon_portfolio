@@ -15,6 +15,7 @@ Estou começando a desbravar o mundo dos dados, com o objetivo de trabalhar com 
 
 
 ## Projetos:
-* Em breve.
-
+* [As casas de apostas que se cuidem!](https://github.com/tosuntore/vini_pinzon_portfolio/blob/main/Modelo_de_previs%C3%A3o_dos_resultados_da_Copa_do_Mundo.ipynb)
+* [O que faz uma corrida grandiosa?](https://github.com/tosuntore/vini_pinzon_portfolio/blob/main/F1_RBR.ipynb)
+* [Análise dos Dados do Airbnb - Twin Cities](https://github.com/tosuntore/vini_pinzon_portfolio/blob/main/Analisando_os_Dados_do_Airbnb_Twin_Cities.ipynb)
 ---
